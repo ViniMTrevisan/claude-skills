@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vini: Handoff Contract"
+  short_description: "Cria handoffs verificáveis entre sessões"
+  default_prompt: "Use $handoff-contract to prepare a verified handoff for the requested transfer."

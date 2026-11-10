@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vini: Debug Profundo"
+  short_description: "Investiga causa raiz antes de corrigir"
+  default_prompt: "Use $deep-debug to investigate this failure before proposing a fix."

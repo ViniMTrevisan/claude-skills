@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vini: Context Slicer"
+  short_description: "Seleciona o menor contexto útil por tarefa"
+  default_prompt: "Use $context-slicer to build the smallest sufficient context packet for this task."

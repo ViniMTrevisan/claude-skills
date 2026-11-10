@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vini: Deep Mode"
+  short_description: "Orquestra profundidade conforme o risco"
+  default_prompt: "Use $deep-mode to choose the right reasoning depth for this task."

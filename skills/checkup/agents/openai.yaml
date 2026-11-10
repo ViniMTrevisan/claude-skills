@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vini: Checkup do Setup"
+  short_description: "Audita manutenção do setup agêntico"
+  default_prompt: "Use $checkup to audit this Claude Code or Codex setup."
